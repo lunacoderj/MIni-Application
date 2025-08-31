@@ -1,0 +1,21 @@
+{
+  "name": "student-registration-form",
+  "version": "1.0.0",
+  "description": "Student registration form with HTML/CSS, client validation, and Node/Express server logging.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
